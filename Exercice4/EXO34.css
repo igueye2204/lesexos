@@ -1,0 +1,19 @@
+body
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 70px 100px;
+    background: #0069d6 ;
+}
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(71, 71, 71);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.divider
+{
+    background: #ffff;
+    padding: 50px;
+    border-radius: 10px;
+}
